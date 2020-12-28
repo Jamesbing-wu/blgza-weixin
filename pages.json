@@ -126,7 +126,284 @@
 		"style":{
 			"navigationBarTitleText":"卫衣"
 		}
+	},
+	{
+		"path":"pages/goods/brands/10INSANIYAT/goods",
+		"style":{
+			"navigationBarTitleText":"INSANIYAT"
+		}
+	},
+	{
+		"path":"pages/goods/brands/1JIYALIREN/goods",
+		"style":{
+			"navigationBarTitleText":"JIYALIREN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/2MAHLIYA/goods",
+		"style":{
+			"navigationBarTitleText":"MAHLIYA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/3MRAS/goods",
+		"style":{
+			"navigationBarTitleText":"MRAS"
+		}
+	},
+	{
+		"path":"pages/goods/brands/6PAHRIM/goods",
+		"style":{
+			"navigationBarTitleText":"PAHRIM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/12PAVZIYA/goods",
+		"style":{
+			"navigationBarTitleText":"PAVZIYA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/5cc_b/goods",
+		"style":{
+			"navigationBarTitleText":"CC-b"
+		}
+	},
+	
+	{
+		"path":"pages/goods/brands/4WUYO/goods",
+		"style":{
+			"navigationBarTitleText":"WUYO"
+		}
+	},
+	{
+		"path":"pages/goods/brands/7MAPTUN/goods",
+		"style":{
+			"navigationBarTitleText":"MAPTUN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/8AWRIXIM/goods",
+		"style":{
+			"navigationBarTitleText":"AWRIXIM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/9HANIX/goods",
+		"style":{
+			"navigationBarTitleText":"HANIX"
+		}
+	},
+	{
+		"path":"pages/goods/brands/11GILBER/goods",
+		"style":{
+			"navigationBarTitleText":"GILBER"
+		}	
+		
+	},
+	{
+		"path":"pages/goods/brands/13GULBERNA/goods",
+		"style":{
+			"navigationBarTitleText":"GULBERNA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/14EZIZ/goods",
+		"style":{
+			"navigationBarTitleText":"EZIZ"
+		}
+	},
+	{
+		"path":"pages/goods/brands/15OZHAN/goods",
+		"style":{
+			"navigationBarTitleText":"OZHAN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/16YIKELIN/goods",
+		"style":{
+			"navigationBarTitleText":"依科林"
+		}
+	},
+	{
+		"path":"pages/goods/brands/17JIASALKIN/goods",
+		"style":{
+			"navigationBarTitleText":"JIASALKIN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/18YARIXIM/goods",
+		"style":{
+			"navigationBarTitleText":"YARIXIM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/19KELBIKE/goods",
+		"style":{
+			"navigationBarTitleText":"KELBIKE"
+		}
+	},
+	
+	{
+		"path":"pages/goods/brands/20BUSARA/goods",
+		"style":{
+			"navigationBarTitleText":"BUSARA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/21NIHARA/goods",
+		"style":{
+			"navigationBarTitleText":"NIHARA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/22KARAM/goods",
+		"style":{
+			"navigationBarTitleText":"KARAM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/23Yonghui/goods",
+		"style":{
+			"navigationBarTitleText":"永辉"
+		}
+	},
+	{
+		"path":"pages/goods/brands/24GULIGENA/goods",
+		"style":{
+			"navigationBarTitleText":"GULIGENA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/25TUUYGU/goods",
+		"style":{
+			"navigationBarTitleText":"TUUTGU"
+		}
+	},
+	{
+		"path":"pages/goods/brands/26BH-BLACK/goods",
+		"style":{
+			"navigationBarTitleText":"BH-BLACK"
+		}
+	},
+	{
+		"path":"pages/goods/brands/27ZENNAZ/goods",
+		"style":{
+			"navigationBarTitleText":"ZENNAZ"
+		}
+	},
+	{
+		"path":"pages/goods/brands/28MUJASSAM/goods",
+		"style":{
+			"navigationBarTitleText":"MUJESSEM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/29GOHARZIMIN/goods",
+		"style":{
+			"navigationBarTitleText":"GOHAR ZIMIN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/30GULNAZ/goods",
+		"style":{
+			"navigationBarTitleText":"GULNAZ"
+		}
+	},
+	{
+		"path":"pages/goods/brands/31ISHANQIM/goods",
+		"style":{
+			"navigationBarTitleText":"ISHANQIM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/32KOXNUR/goods",
+		"style":{
+			"navigationBarTitleText":"KOXNUR"
+		}
+	},
+	{
+		"path":"pages/goods/brands/33AJDATLAR/goods",
+		"style":{
+			"navigationBarTitleText":"AJDATLAR"
+		}
+	},
+	{
+		"path":"pages/goods/brands/34UZDEYARIM/goods",
+		"style":{
+			"navigationBarTitleText":"UZ DEYARIM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/35RAHAT/goods",
+		"style":{
+			"navigationBarTitleText":"RAHAT"
+		}
+	},
+	{
+		"path":"pages/goods/brands/36UYSIMA/goods",
+		"style":{
+			"navigationBarTitleText":"UYSIMA"
+		}
+	},
+	{
+		"path":"pages/goods/brands/37TOYUM/goods",
+		"style":{
+			"navigationBarTitleText":"TOYUM"
+		}
+	},
+	{
+		"path":"pages/goods/brands/38QINAR/goods",
+		"style":{
+			"navigationBarTitleText":"QINAR"
+		}
+	},
+	{
+		"path":"pages/goods/brands/39JIYAHAN/goods",
+		"style":{
+			"navigationBarTitleText":"JIYAHAN"
+		}
+	},
+	{
+		"path":"pages/goods/brands/40Dijle/goods",
+		"style":{
+			"navigationBarTitleText":"Dijle"
+		}
+	},
+	{
+		"path":"pages/goods/brands/41NEZZME/goods",
+		"style":{
+			"navigationBarTitleText":"NEZZME"
+		}
+	},
+	{
+		"path":"pages/goods/brands/42SEVDE/goods",
+		"style":{
+			"navigationBarTitleText":"SEVDE"
+		}
+	},
+	
+	
+	{
+		"path":"pages/lottery/lottery",
+		"style":{
+			"navigationBarTitleText":"抽奖"
+		}
+	},
+	{
+		"path":"pages/share/share",
+		"style":{
+			"navigationBarTitleText":"邀请好友"
+		}
+	},
+	{
+		"path":"pages/share/share1",
+		"style":{
+			"navigationBarTitleText":"邀请好友"
+		}
 	}
+	
+	
 	
 	,
 	{
@@ -177,6 +454,18 @@
 		"style":{
 			"navigationBarTitleText":"联系客服"
 		}
+	},
+	{
+		"path":"pages/category/category",
+		"style":{
+			"navigationBarTitleText":"商品分类"
+		}
+	},
+	{
+		"path":"pages/cart/cart",
+		"style":{
+			"navigationBarTitleText":"购物车"
+		}
 	}
 	],
 	"globalStyle": {
@@ -190,14 +479,26 @@
 			{
 				"pagePath":"pages/index/index",
 				"text":"展示",
+				"iconPath":"static/tab-home.png",
+				"selectedIconPath":"static/tab-home-current.png"
+			},
+			// {
+			// 	"pagePath":"pages/square/square",
+			// 	"text":"留言广场",
+			// 	"iconPath":"static/tab-home.png",
+			// 	"selectedIconPath":"static/tab-home-current.png"
+			// },
+			{
+				"pagePath":"pages/category/category",
+				"text":"商品分类",
 				"iconPath":"static/tab-cate.png",
 				"selectedIconPath":"static/tab-cate-current.png"
 			},
 			{
-				"pagePath":"pages/square/square",
-				"text":"留言广场",
-				"iconPath":"static/tab-home.png",
-				"selectedIconPath":"static/tab-home-current.png"
+				"pagePath":"pages/cart/cart",
+				"text":"购物车",
+				"iconPath":"static/tab-cart.png",
+				"selectedIconPath":"static/tab-cart-current.png"
 			},
 			{
 				"pagePath":"pages/user/user",
